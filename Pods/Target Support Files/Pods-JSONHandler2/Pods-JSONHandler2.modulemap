@@ -1,0 +1,6 @@
+framework module Pods_JSONHandler2 {
+  umbrella header "Pods-JSONHandler2-umbrella.h"
+
+  export *
+  module * { export * }
+}
